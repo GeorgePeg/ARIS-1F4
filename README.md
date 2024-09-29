@@ -8,4 +8,20 @@ Maker Mini Sumo is a controller made by Cytron in order to help beginners or eve
 This board was made not only by Cytron but also with the helping hand of the team **Ikedo Kogeki**,the winner of multiple Sumo robot competition locally and internationally. 
 
 **Maker Mini Sumo Features :**
- 
+
+ **1)_Arduino UNO/NANO Compatiple_:**
+ Powered by  ATMEGA328P, Maker Mini Sumo Controller is 100% compatible with Arduino Uno/Nano and can be programmed from Arduino IDE. Library and example programs are also provided via Arduino IDE's Libraries Manager.
+ You can download the Library in your Arduino IDE after doing the following steps :
+ 1)Open Arduino IDE
+ 2)Go to Tools and click at Manage Libraries
+ 3)Search for Maker Sumo
+ 4)Click to Install button to download the library(Make sure you selected the version you need)
+
+ **2)_Powerful Motor Driver (2 Channels):_**
+The motor driver can handle up to 6A maximum current per channel for battery voltage 7V - 18V thanks to its discrete MOSFETs H-Bridge design. This will maximize the torque and performance of the motor especially 
+during face-to-face pushing in the competition.
+
+**_3)Reversed Polarity Protection:_**
+If you connected the battery in wrong polarity, don't be afraid of toasting your board,since Maker Mini Sumo Controller is reversed voltage protected. If you ever connect the battery in wrong way, just change the polarity 
+to the correct one and it will work again.
+
