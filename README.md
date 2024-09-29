@@ -25,3 +25,6 @@ during face-to-face pushing in the competition.
 If you connected the battery in wrong polarity, don't be afraid of toasting your board,since Maker Mini Sumo Controller is reversed voltage protected. If you ever connect the battery in wrong way, just change the polarity 
 to the correct one and it will work again.
 
+**_4)Solderless Connection_**
+![image](https://github.com/user-attachments/assets/534b0590-4b7f-4974-a422-8c18cdf6dc4f)
+**_5)Shock Proof On/Off Switch:_**
