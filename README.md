@@ -6,3 +6,6 @@ In this repository, you can  learn how to make your own 10x10 mini sumo robot us
 
 Maker Mini Sumo is a controller made by Cytron in order to help beginners or even professionals at electronics, to  built their own 10x10 mini sumo robot for any robot competition across the globe.
 This board was made not only by Cytron but also with the helping hand of the team **Ikedo Kogeki**,the winner of multiple Sumo robot competition locally and internationally. 
+
+**Maker Mini Sumo Features :**
+ 
