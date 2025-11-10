@@ -27,4 +27,5 @@ to the correct one and it will work again.
 
 **_4)Solderless Connection_**
 ![image](https://github.com/user-attachments/assets/534b0590-4b7f-4974-a422-8c18cdf6dc4f)
+
 **_5)Shock Proof On/Off Switch:_**
